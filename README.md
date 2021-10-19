@@ -1,4 +1,4 @@
 ### Hello! 👋
 
-- [🖥️ Programmer](https://www.instagram.com/l1ghty__/)
-- 🎨 Artist
+- 🖥️ Programmer
+- [🎨 Artist](https://www.instagram.com/l1ghty__/)
