@@ -1,4 +1,4 @@
 ### Hello! 👋
 
-- Programmer
-- Artist
+- 🖥️ Programmer
+- 🎨 Artist
